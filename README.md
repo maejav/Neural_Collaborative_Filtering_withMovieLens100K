@@ -1,6 +1,3 @@
-# Neural_Collaborative_Filtering_withMovieLens100K
-# Neural Collaborative Filtering with MovieLens 100K
-
 This project implements a Neural Collaborative Filtering (NCF) model using PyTorch to predict user ratings for movies. It uses the MovieLens 100K dataset and demonstrates how deep learning can be applied to recommendation systems.
 
 ## 📁 Dataset
